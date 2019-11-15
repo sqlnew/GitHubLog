@@ -10,3 +10,5 @@
 在Git CMD 中 git pull origin master --allow-unrelated-histories 然
 
 后我们可以push代码了
+
+checkout 可以还原指定分支
